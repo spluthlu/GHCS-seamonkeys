@@ -1,0 +1,19 @@
+To save and quit the vi or vim editor with saving any changes you have made:
+
+If you are currently in insert or append mode, press Esc key.
+
+Press : (colon). The cursor should reappear at the lower left corner of the screen beside a colon prompt.
+
+Enter the following command (type :x and press Enter key):
+
+x
+
+OR
+
+x!
+
+OR
+
+wq!
+
+This will quit the editor, and all changes you have made to the document will be saved to the file.
