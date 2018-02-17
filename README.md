@@ -1,6 +1,8 @@
 Welcome to the AWS CodeStar sample web application
 ==================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spluthlu/GHCS-seamonkeys.svg)](https://greenkeeper.io/)
+
 This sample code helps get you started with a simple Node.js web application
 deployed by AWS CodeDeploy to an Amazon EC2 instance.
 
